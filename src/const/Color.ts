@@ -1,0 +1,18 @@
+export default {
+  LightBlack: 'rgba(0,0,0,0.8)',
+  ThickGrey: 'rgba(0,0,0,0.6)',
+  Grey: 'rgba(0,0,0,0.3)',
+  White: '#fff',
+  ShallowWhite: 'rgba(255,255,255,0.9)',
+  ShadowColor: '#00257C',
+  MainBackground: 'rgba(0,0,0,0.03)',
+  DividerColor: '#6A6A6A',
+  Black: '#000',
+  lightGrey: '#888',
+  Blue: '#6C98FF',
+  DarkBlue: '#6D99FF',
+  Transparent: 'transparent',
+  ModalColor: 'rgba(0,0,0,0.25)',
+  DisabledColor: 'rgba(0,0,0,0.1)',
+  ErrorColor: 'rgba(255,0,0,0.60)',
+}
